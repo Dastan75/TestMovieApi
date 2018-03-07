@@ -4,7 +4,7 @@ a [Sails](http://sailsjs.org) application
 
 Install : npm install
 
-Run : sails lift (Option 3 to delete everything)
+Run : sails lift (Option 1: migrate by hand, 2: auto-migrate, 3 delete everything)
 
 App running on port 1337 (http://localhost:1337)
 
